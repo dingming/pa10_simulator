@@ -1,0 +1,10 @@
+.svn
+.DS_Store
+*/.DS_Store
+*~
+*.o
+*.bak
+*.bak.*
+*.a
+
+pa10simu
